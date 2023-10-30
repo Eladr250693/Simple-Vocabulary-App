@@ -4,7 +4,7 @@ Adding english words i come across with everyday and their translation into a li
 building app for iphone that helps learn & remember new words in daily routine.
 
 
--The app should the list permanently./n
+-The app should the list permanently.\n
 -the list should be sorted by the alphabetic order without consideration of upper/lower case
 -the list should update in real time and save it state
 -A button for adding new word and its translation
